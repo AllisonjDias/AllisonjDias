@@ -33,7 +33,6 @@ I am a professional with experience in **Manual Testing** and **Test Automation*
 ### • Tools & Testing
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0089D6?style=for-the-badge&logo=Bitbucket&logoColor=white)
 
 
 ### • Database
