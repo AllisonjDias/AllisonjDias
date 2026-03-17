@@ -1,57 +1,83 @@
-## Hi, I am Allison Dias, a software testing specialist!
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Automation+Engineer+in+Progress;Java+%7C+Automation+%7C+Systems+Thinking;Building+Reliable+and+Scalable+Solutions" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B6CF7&width=435&lines=Java+Software+Tester+%E2%98%95)](https://git.io/typing-svg)
+# 🚀 Allison Dias
 
+## 👨‍💻 About Me
+I am a developer focused on **automation, system reliability, and scalable software engineering**.  
 
-## 🧑‍💻 About Me    
+My goal is to design solutions that **optimize processes, reduce manual effort, and improve performance**, always applying an engineering mindset.  
 
-I am a professional with experience in **Manual Testing** and **Test Automation**. I believe that the best product is created when those who test also understand how to build it. 
-
-- 🤖 Test Analyst focused on Manual
-- ⚛️ Frontend with JavaScript
-- 🔧 Backend with Java 
-  
+Inspired by high-performance environments such as aerospace systems, I aim to build software that meets **high standards of precision, efficiency, and reliability**.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-### • Languages 
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-
-
-
-### • Frameworks & Libraries
-![Json](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-	
-
-### • Tools & Testing
+### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-
-### • Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### • Design & Architecture
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=docker&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Octane](https://img.shields.io/badge/Octane-6DB33F?style=for-the-badge&logo=microfocus&logoColor=white)
 
 ---
 
-## 📫 Shall we talk?
+## 🤖 Automation & Engineering Focus
+- Test automation and workflow optimization  
+- Building reliable and repeatable systems  
+- Process efficiency and performance improvement  
+- Scalable and maintainable solutions  
+- Real-world problem-solving with engineering mindset  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allisonjdias/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allisonjdias@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511910128078)
+---
 
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AllisonjDias&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllisonjDias&layout=compact&theme=tokyonight"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AllisonjDias&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Current Focus
+- Advancing in **Java and automation frameworks**  
+- Improving **software architecture and design patterns**  
+- Expanding knowledge in **cloud (AWS)**  
+- Applying automation in real-world scenarios  
+
+---
+
+## 🧠 Engineering Mindset
+- Precision and reliability over shortcuts  
+- Clean and maintainable code  
+- Systems thinking approach  
+- Performance and scalability focus  
+
+---
+
+## 🛰️ Mission
+To evolve into a **software engineer specialized in automation and high-reliability systems**, contributing to environments where **performance, precision, and innovation are critical**.
+
+---
+
+## 📬 Contact
+- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: (coloca depois)
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving complex problems and turning them into efficient automated solutions.
