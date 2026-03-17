@@ -3,7 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Automation+Engineer+in+Progress;Java+%7C+Automation+%7C+Systems+Thinking;Building+Reliable+and+Scalable+Solutions" />
 </p>
 
-# 🚀 Allison Dias
+# <p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="120"/>
+</p> Allison Dias
 
 ## 👨‍💻 About Me
 I am a developer focused on **automation, system reliability, and scalable software engineering**.  
