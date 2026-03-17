@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 About Me
+ ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
 <p align="center">
 I am focused on <b>automation, system reliability, and scalable software development</b>.  
