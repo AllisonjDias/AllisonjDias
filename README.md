@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Automation+Engineer+in+Progress;Java+%7C+Automation+%7C+Systems+Thinking;Building+Reliable+and+Scalable+Solutions" />
 </p>
 
-# <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="120"/>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3212/3212608.png" width="80"/>
 </p> Allison Dias
 
 ## 👨‍💻 About Me
@@ -17,6 +17,10 @@ Inspired by high-performance environments such as aerospace systems, I aim to bu
 ---
 
 ## ⚙️ Tech Stack
+
+# <p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="120"/>
+</p>
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
