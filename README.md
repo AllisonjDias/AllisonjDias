@@ -10,6 +10,7 @@
   <img src="https://media.tenor.com/SqJHatCJ40cAAAAj/mars.gif" width="80"/>
 </p> 
 
+<h1 align="center">Allison</h1>
 
 <h3 align="center">Automation-focused Developer | Java | Systems Thinking</h3>
 
