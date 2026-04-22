@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=E57C49&size=25&center=true&vCenter=true&width=600&lines=Automation+Engineer+in+Progress;Java+%7C+Automation+%7C+Systems+Thinking;Building+Reliable+and+Scalable+Solutions" />
 </p>
 
+<img  align="center" width="256" height="78" alt="fontbolt-removebg-preview" src="https://github.com/user-attachments/assets/12048d22-7d4c-4d35-9917-c70e71549334" />
+ 
 <p align="center">
   <img src="https://media.tenor.com/SqJHatCJ40cAAAAj/mars.gif" width="80"/>
 </p> 
