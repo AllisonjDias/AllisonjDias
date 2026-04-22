@@ -1,11 +1,12 @@
 
+
 <!-- ROCKET -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=E57C49&size=25&center=true&vCenter=true&width=600&lines=Automation+Engineer+in+Progress;Java+%7C+Automation+%7C+Systems+Thinking;Building+Reliable+and+Scalable+Solutions" />
 </p>
 
-<img width="686" height="78" alt="Design sem nome" src="https://github.com/user-attachments/assets/01f215c0-13d7-446e-8590-f57411821e5a" />
+<img width="686" height="78" alt="566131206-12048d22-7d4c-4d35-9917-c70e71549334" src="https://github.com/user-attachments/assets/9db6e4fe-c423-49ed-9334-58d6e7cbbf3c" />
  
 <p align="center">
   <img src="https://media.tenor.com/SqJHatCJ40cAAAAj/mars.gif" width="80"/>
