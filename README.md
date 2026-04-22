@@ -10,7 +10,7 @@
   <img src="https://media.tenor.com/SqJHatCJ40cAAAAj/mars.gif" width="80"/>
 </p> 
 
-<h3 align="center"> <img width="400" height="78" alt="566131206-12048d22-7d4c-4d35-9917-c70e71549334" src="https://github.com/user-attachments/assets/9db6e4fe-c423-49ed-9334-58d6e7cbbf3c"/> </h3>
+<h1 align="center"> <img width="400" height="78" alt="566131206-12048d22-7d4c-4d35-9917-c70e71549334" src="https://github.com/user-attachments/assets/9db6e4fe-c423-49ed-9334-58d6e7cbbf3c"/> </h1>
 
 
 <h3 align="center">Automation-focused Developer | Java | Systems Thinking</h3>
